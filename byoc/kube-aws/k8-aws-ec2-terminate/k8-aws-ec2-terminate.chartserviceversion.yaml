@@ -35,4 +35,4 @@ spec:
   icon:
     - url:
       mediatype: ""
-  chaosexpcrdlink: https://raw.githubusercontent.com/litmuschaos/chaos-charts/master/byoc/kube-aws/k8-aws-ec2-terminate/experiment.yaml
+  chaosexpcrdlink: https://raw.githubusercontent.com/RobertBaratheonMoya/chaosExperiments/master/byoc/kube-aws/k8-aws-ec2-terminate/experiment.yaml

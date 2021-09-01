@@ -7,7 +7,7 @@ metadata:
   annotations:
     categories: Kubernetes
     vendor: Mayadata
-    repository: https://github.com/litmuschaos/chaos-charts
+    repository: https://github.com/RobertBaratheonMoya/chaosExperiments
     support: https://app.slack.com/client/T09NY5SBT/CNXNB0ZTN
 spec:
   displayName: node-drain
@@ -45,4 +45,4 @@ spec:
   icon:
     - url: ""
       mediatype: ""
-  chaosexpcrdlink: https://raw.githubusercontent.com/litmuschaos/chaos-charts/master/charts/generic/node-drain/experiment.yaml
+  chaosexpcrdlink: https://raw.githubusercontent.com/RobertBaratheonMoya/chaosExperiments/master/charts/generic/node-drain/experiment.yaml

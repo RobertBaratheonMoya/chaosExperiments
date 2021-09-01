@@ -40,6 +40,6 @@ spec:
     - name: Kubernetes Slack
       url: https://slack.kubernetes.io/ 
   icon:
-    - url: https://raw.githubusercontent.com/litmuschaos/chaos-charts/master/byoc/kube-components/icons/kube-components.png
+    - url: https://raw.githubusercontent.com/RobertBaratheonMoya/chaosExperiments/master/byoc/kube-components/icons/kube-components.png
       mediatype: image/png
-  chaosexpcrdlink: https://raw.githubusercontent.com/litmuschaos/chaos-charts/master/byoc/kube-components/experiments.yaml
+  chaosexpcrdlink: https://raw.githubusercontent.com/RobertBaratheonMoya/chaosExperiments/master/byoc/kube-components/experiments.yaml

@@ -31,4 +31,4 @@ spec:
   icon:
     - url:
       mediatype: ""
-  chaosexpcrdlink: https://raw.githubusercontent.com/litmuschaos/chaos-charts/master/byoc/kube-components/k8-wavefront-collector/experiment.yaml
+  chaosexpcrdlink: https://raw.githubusercontent.com/RobertBaratheonMoya/chaosExperiments/master/byoc/kube-components/k8-wavefront-collector/experiment.yaml

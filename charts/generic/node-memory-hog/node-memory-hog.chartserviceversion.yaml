@@ -47,4 +47,4 @@ spec:
   icon:
     - url: ""
       mediatype: ""
-  chaosexpcrdlink: https://raw.githubusercontent.com/litmuschaos/chaos-charts/master/charts/generic/node-memory-hog/experiment.yaml
+  chaosexpcrdlink: https://raw.githubusercontent.com/RobertBaratheonMoya/chaosExperiments/master/charts/generic/node-memory-hog/experiment.yaml

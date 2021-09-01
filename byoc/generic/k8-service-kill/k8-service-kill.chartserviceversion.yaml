@@ -33,4 +33,4 @@ spec:
   icon:
     - url:
       mediatype: ""
-  chaosexpcrdlink: https://raw.githubusercontent.com/litmuschaos/chaos-charts/master/byoc/generic/k8-service-kill/experiment.yaml
+  chaosexpcrdlink: https://raw.githubusercontent.com/RobertBaratheonMoya/chaosExperiments/master/byoc/generic/k8-service-kill/experiment.yaml

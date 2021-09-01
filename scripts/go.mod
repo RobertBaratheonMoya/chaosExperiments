@@ -1,4 +1,4 @@
-module github.com/litmuschaos/chaos-charts/scripts
+module github.com/RobertBaratheonMoya/chaosExperiments/scripts
 
 go 1.13
 

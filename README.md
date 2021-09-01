@@ -12,7 +12,7 @@ with the desired `<release_version>`, `<chart_name>` & `<namespace>`
 
 ```bash
 ## downloads and unzips the released source
-tar -zxvf <(curl -sL https://github.com/litmuschaos/chaos-charts/archive/<release_version>.tar.gz)
+tar -zxvf <(curl -sL https://github.com/RobertBaratheonMoya/chaosExperiments/archive/<release_version>.tar.gz)
 
 ## installs the chaosexperiment resources 
 find chaos-charts-<release_version> -name experiments.yaml | grep <chart-name> | xargs kubectl apply -n <namespace> -f
@@ -20,7 +20,7 @@ find chaos-charts-<release_version> -name experiments.yaml | grep <chart-name> |
 - For example, to install the *generic* experiment chart bundle for release *1.1.0*, in the *sock-shop* namespace, run:
 
 ```bash
-tar -zxvf <(curl -sL https://github.com/litmuschaos/chaos-charts/archive/1.1.0.tar.gz)
+tar -zxvf <(curl -sL https://github.com/RobertBaratheonMoya/chaosExperiments/archive/1.1.0.tar.gz)
 find chaos-charts-1.1.0 -name experiments.yaml | grep generic | xargs kubectl apply -n sock-shop -f
 ```
 
