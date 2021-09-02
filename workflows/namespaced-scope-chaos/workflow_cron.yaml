@@ -11,9 +11,7 @@ spec:
   workflowSpec:
     entrypoint: argowf-chaos
     serviceAccountName: argo-chaos
-    securityContext:
-      runAsUser: 1000919988
-      runAsNonRoot: true
+
     arguments:
       parameters:
         - name: adminModeNamespace
